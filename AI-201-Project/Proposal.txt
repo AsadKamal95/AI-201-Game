@@ -1,0 +1,10 @@
+ Dodge the Missiles
+In this project we will make a game in which a helicopter will be shown on a screen and it can be flown all around the screen using the arrow keys and
+it will have to dodge the missiles that will constantly trace the helicopter. The speed of the missile will be slightly greater than the helicopter. 
+The missiles will also blow up by colliding with one another. The score will increase linearly with time. 
+Their will be stars that will be spawned at random positions which will increase the score by 10 if the helicopter catches them. 
+This program will use AI searching algorithms to find shortest path. ( we can resort to use Minmax algorithm incase Time complexity increaser)
+
+Asad Kamal (2020090)
+Shazaib Asghar (2020449)
+Muhammad Bin Murad (2020287)
